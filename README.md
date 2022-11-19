@@ -44,8 +44,8 @@ Product movements
 
    •	MySQL 
    
-**Software Requirements:
-**
+**Software Requirements:**
+
    •    Flask
   
    •    Docker
