@@ -1,7 +1,7 @@
 # IBM-Project-47081-1660796442
 Inventory Managment System for Retailers
 
-Team Members:
+**Team Members:**
 
   • L.MUHAMMED IMAAN 
 
@@ -30,7 +30,7 @@ Product movements
     This page lets users enter details of product movements Product Id, Name, From Location, To Location, 
     Quantity, Date, Revert.
     
-Languages Used:
+**Languages Used:**
 
    •	Python
 
@@ -38,21 +38,21 @@ Languages Used:
 
    •	HTML
    
-Databases Used:
+**Databases Used:**
 
    •	MariaDB
 
    •	MySQL 
    
-Software Requirements:
-
+**Software Requirements:
+**
    •    Flask
   
    •    Docker
   
    •    Kubernetes
    
-Python Packages:
+**Python Packages:**
 
    •	WTForms
 
@@ -62,8 +62,8 @@ Python Packages:
 
    •	MySQL Server
   
-   •    PyMySQL
+   •  PyMySQL
     
-   •    Flask
+   •  Flask
    
-Website Link : http://169.51.203.191:31392/
+**Website Link :** http://169.51.203.191:31392/
